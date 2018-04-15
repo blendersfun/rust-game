@@ -1,0 +1,7 @@
+[package]
+name = "rust-game"
+version = "0.1.0"
+authors = ["Aaron Moore <two.a.ron@gmail.com>"]
+
+[dependencies]
+ggez = "0.4"
